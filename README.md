@@ -1,5 +1,4 @@
-# resume
-Resume webpage WD101 capstone project
+# RESUME
 <!DOCTYPE html>
 <html lang="en">
 <head>
